@@ -66,6 +66,29 @@ header {
 }
 .titulo_home{
 	transform: translate(-370px, 10px);
+	width: 150px;
+	transform: translate(-124px, -35px);
+}
+.titulo_home{
+	transform: translate(-390px, 10px);
+}
+.home2{
+	height: 60px;
+	width: 200px;
+	transform: translate(-124px, -35px);
+}
+.titulo_home2{
+	width: 200px;
+	transform: translate(-450px, 10px);
+}
+.home3{
+	height: 60px;
+	width: 200px;
+	transform: translate(-124px, -35px);
+}
+.titulo_home3{
+	width: 200px;
+	transform: translate(-450px, 10px);
 }
 #primary_nav_wrap ul li.current-menu-item{
 	height: 50px;
@@ -112,6 +135,19 @@ header {
 	font-size: 16px;
   }
   
+
+  .titulo-lista3 {
+	font-weight: bold;
+	color:#8c86db;
+	margin-bottom: 5px;
+  }
+  .texto-lista3 {
+	color:coral;
+	font-size: 16px;
+  }
+  #descripcion_curso3{
+	background-color: #D5F5E3;
+  }
 footer {
 	background-color: #000;
 	color: #fff;
