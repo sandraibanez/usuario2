@@ -75,6 +75,10 @@ header {
 .home2{
 	height: 60px;
 	width: 200px;
+	transform: translate(-124px, -35px);}
+.home4{
+	height: 60px;
+	width: 200px;
 	transform: translate(-124px, -35px);
 }
 .titulo_home2{
@@ -87,6 +91,10 @@ header {
 	transform: translate(-124px, -35px);
 }
 .titulo_home3{
+	width: 200px;
+	transform: translate(-450px, 10px);
+}
+.titulo_home4{
 	width: 200px;
 	transform: translate(-450px, 10px);
 }
